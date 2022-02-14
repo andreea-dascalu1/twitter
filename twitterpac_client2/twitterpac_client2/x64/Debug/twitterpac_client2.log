@@ -1,0 +1,18 @@
+﻿  Reading Qt configuration (D:/Qt/5.12.11/msvc2017_64/bin/qmake)
+  moc Post.h
+  Dashboard.cpp
+  Post.cpp
+  Retweet.cpp
+  RetweetPreface.cpp
+  Search.cpp
+  SearchBar.cpp
+  SideBarMenu.cpp
+  UserProfile.cpp
+  main.cpp
+  twitterpac_client2.cpp
+  moc_Post.cpp
+  moc_Retweet.cpp
+  moc_SideBarMenu.cpp
+  moc_UserProfile.cpp
+  moc_twitterpac_client2.cpp
+  twitterpac_client2.vcxproj -> D:\twitterpac\twitterpac_client2\x64\Debug\twitterpac_client2.exe

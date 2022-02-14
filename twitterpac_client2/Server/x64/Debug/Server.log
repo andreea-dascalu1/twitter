@@ -1,0 +1,7 @@
+﻿  Database.cpp
+  Source.cpp
+D:\twitterpac\twitterpac_client2\Server\Source.cpp(112,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\twitterpac\twitterpac_client2\Server\Source.cpp(178,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  LINK : D:\twitterpac\twitterpac_client2\x64\Debug\Server.exe not found or not built by the last incremental link; performing full link
+  Server.vcxproj -> D:\twitterpac\twitterpac_client2\x64\Debug\Server.exe
